@@ -1,0 +1,10 @@
+# 5 4
+
+graph G {
+	2 -- 4 [label=8, color=red, style=bold];
+	1 -- 3 [label=12, color=red, style=bold];
+	0 -- 1 [label=15, color=red, style=bold];
+	0 -- 2 [label=18, color=red, style=bold];
+}
+
+# MST : 53
